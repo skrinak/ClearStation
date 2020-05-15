@@ -1,6 +1,6 @@
 # ClearStation
 
-## Erase the hard right edge using the ClearStation TA methodology
+## Soften the hard right edge using machine learning and DeepAR.
 
 Nothing in this repo contains investment advice. We propose a metaphor for regarding the market as a conversation between 2 participants. Always check with your registered financial advisor before making personal investment decisions. 
 
